@@ -21,4 +21,5 @@
   <a href="https://react-native.rocketseat.dev/expo-managed/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-Dependecies-blue"></img></a>
   <a href="https://react-native.rocketseat.dev/expo-managed/linux" target="_blank"><img src="https://img.shields.io/badge/Linux-Dependecies-blue"></img></a>
   <a href="https://react-native.rocketseat.dev/expo-managed/macos" target="_blank"><img src="https://img.shields.io/badge/Mac-Dependecies-blue"></img></a>
+  <p>Thanks Rocketseat for the Good Installation Guides above</p>
 </div>
